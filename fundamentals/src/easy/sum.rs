@@ -8,5 +8,6 @@
 */
 
 pub fn add(a: i32, b: i32) -> i32 {
-    todo!()
+  return a + b;
+    // todo!();
 }
